@@ -1,0 +1,24 @@
+{
+  "accountEnabled": true,
+  "city": "Allentown",
+  "country": "United States",
+  "department": "Owners",
+  "displayName": "DynamicDataFromForm",
+  "givenName": "DynamicDataFromForm",
+  "jobTitle": "Marketing Director",
+  "mailNickname": "PeterD",
+  "passwordPolicies": "DisablePasswordExpiration",
+  "passwordProfile": {
+    "password": "PasswordFromAppHere",
+    "forceChangePasswordNextSignIn": false
+  },
+  "officeLocation": "131/1105",
+  "postalCode": "98052",
+  "preferredLanguage": "en-US",
+  "state": "WA",
+  "streetAddress": "9256 Towne Center Dr., Suite 400",
+  "surname": "Darrow",
+  "mobilePhone": "+1 206 555 0110",
+  "usageLocation": "US",
+  "userPrincipalName": "DynamicDataFromForm@romantechs.com"
+}
